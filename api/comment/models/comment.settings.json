@@ -18,6 +18,10 @@
     "description": {
       "type": "richtext",
       "required": true
+    },
+    "article": {
+      "via": "comments",
+      "model": "article"
     }
   }
 }

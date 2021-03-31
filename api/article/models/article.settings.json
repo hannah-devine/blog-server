@@ -61,7 +61,8 @@
       "via": "articles"
     },
     "comments": {
-      "collection": "comment"
+      "collection": "comment",
+      "via": "article"
     }
   }
 }
