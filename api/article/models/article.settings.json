@@ -60,9 +60,8 @@
       "model": "writer",
       "via": "articles"
     },
-    "comment": {
-      "model": "comment",
-      "via": "articles"
+    "comments": {
+      "collection": "comment"
     }
   }
 }
